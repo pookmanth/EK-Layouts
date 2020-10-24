@@ -1,7 +1,9 @@
+# Fork from Hunterking to add 108 JIS Layout
+
+
 # As of 10/31/2019, EliteKeyboards.com has been shut down and their software is no longer available. As such, this repo will be archived.
 # EK Switch Hitter Layouts
 
-# Forl from Hunterking to add 108 JIS Layout
 
 ## About
 ### Note: F122 (Stock) is not very well put together at this point in time, trying to nail down all the weird keycodes on it.
